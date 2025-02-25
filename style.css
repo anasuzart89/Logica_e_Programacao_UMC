@@ -1,0 +1,55 @@
+body{
+    width: 40vw;
+    margin: auto;
+}
+
+h1 {
+    background-color: rgb(219, 102, 125);
+    text-align: center;
+}
+
+h2.sub1 {font-size: 1.8em;
+    font-weight: bold;
+    background-color: crimson;
+    color: rgb(66, 0, 6);
+    text-align: justify;
+}
+    
+    
+h2.sub2 {font-size: 1.8em;
+    font-weight: bold;
+    background-color: crimson;
+    color: rgb(66, 0, 6);
+    text-align: justify;
+
+}
+
+h2.sub3 {font-size: 1.8em;
+    font-weight: bold;
+    background-color: crimson;
+    color: rgb(66, 0, 6);
+    text-align: justify;
+
+}
+h2.sub4 {font-size: 1.8em;
+    font-weight: bold;
+    background-color: crimson;
+    color: rgb(66, 0, 6);
+    text-align: justify;
+}
+
+
+
+
+
+p.paragrafo {
+    font-size: 1.1em;
+    line-height: 1.6;
+    color: rgb(49, 0, 15);
+    text-align: justify;
+}
+
+#pag1{color: rgb(122, 0, 51);}
+#pag2{color: rgb(122, 0, 122);}
+#pag3{color: rgb(57, 0, 122);}
+#pag4{color: rgb(0, 39, 122);}
