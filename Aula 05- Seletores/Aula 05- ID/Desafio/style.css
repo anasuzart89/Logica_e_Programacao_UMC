@@ -1,0 +1,29 @@
+body{
+    width: 50vw;
+    margin: auto;
+}
+
+h1 {
+    text-align: center;
+    
+}
+h1#titulo1 {
+    color: blue;
+    background-color: rgb(150, 150, 255);
+}
+h1#titulo2 {
+    color: blue;
+    background-color: rgb(150, 150, 255);
+}
+h2.subtitulo{
+    font-size: 1.8em;
+    font-weight: bold;
+    color: rgb(0, 60, 255);
+}
+
+p.paragrafo {
+    font-size: 1.1em;
+    line-height: 1.6;
+    color: rgb(0, 0, 78);
+    text-align: justify;
+}

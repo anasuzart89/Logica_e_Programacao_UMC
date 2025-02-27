@@ -1,0 +1,48 @@
+h1 {
+    font-size: 32px;
+    color: rgb(94, 0, 55);
+    background-color: rgb(243, 97, 141);
+    text-align: center;
+}
+
+h2 {
+    font-size: 24px;
+    color:rgb(94, 0, 55);
+    background-color: rgb(243, 97, 141);
+    text-align: center;
+}
+
+p {
+    font-size: 16px;
+    color: rgb(94, 0, 55);
+    background-color: rgb(250, 210, 222);
+    text-align: justify;
+
+}
+
+#umc1 {
+    font-size: 40px;
+    color: rgb(131, 2, 51);
+    background-color: rgb(241, 66, 119);
+    text-align: center;
+}
+#paragrafo1{
+    font-size: 16px;
+    background-color: rgb(223, 166, 166);
+    text-align: justify;
+
+}
+
+#paragrafo2{
+    font-size: 16px;
+    background-color: rgb(248, 145, 167);
+    text-align: justify;
+
+}
+
+#paragrafo3{
+    font-size: 16px;
+    background-color: rgb(253, 105, 105);
+    text-align: justify;
+
+}
